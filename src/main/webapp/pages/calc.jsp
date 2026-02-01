@@ -16,7 +16,7 @@
     <nav class="navbar bg-body-tertiary">
         <form class="container-fluid justify-content-start">
             <a class="nav-link active" aria-current="page" href="/calculator">Calculator</a>
-            <a class="nav-link active" aria-current="page" href="/history">History</a>
+            <a class="nav-link" aria-current="page" href="/history">History</a>
         </form>
     </nav>
     <form action="/calculator" method="post">
