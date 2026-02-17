@@ -1,5 +1,8 @@
-package org.example.calculatorservlets;
+package org.example.calculatorservlets.model;
 
+import lombok.Data;
+
+@Data
 public class Calc {
     private final double a;
     private final double b;
